@@ -1,0 +1,6 @@
+{
+  "name": "Vértice Prime | Imobiliária de Alto Padrão",
+  "description": "Plataforma imobiliária contemporânea de alto padrão com curadoria exclusiva de imóveis, busca avançada e Comparador Inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
